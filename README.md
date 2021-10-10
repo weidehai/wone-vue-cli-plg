@@ -1,0 +1,1 @@
+some custome config(operation) use vuecli plugin do it
